@@ -1,0 +1,3 @@
+function: useless_func positional parameters: none keyword parameters: none return: none
+function: true_returning_func positional parameters: ('q', 'wer', 23, ['q', 'w', 'e', 'r'], {'q': 221, 'w': 22}) keyword parameters: none return: True
+function: logger_decorator_returning_func positional parameters: none keyword parameters: {'first_param': 21, 'second_param': 'asd', 'third_param': [1, 2, 3, 4, 5]} return: <function logger_decorator at 0x000002213A5C1440>
