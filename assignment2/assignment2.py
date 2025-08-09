@@ -78,7 +78,7 @@ def all_employees_dict():
 # Task 10
 def get_this_value():
     # os.environ['THIS_VALUE'] = 'ABC'
-    return os.environ['THIS_VALUE']
+    return os.getenv('THIS_VALUE')
 
 # Task 11
 def set_that_secret(new_secret):
