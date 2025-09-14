@@ -1,0 +1,85 @@
+# Which sections of the website are restricted for crawling?
+
+## Wikipedia:
+Articles_for_deletion
+Votes_for_deletion
+Pages_for_deletion
+Miscellany_for_deletion
+Miscellaneous_deletion
+Copyright_problems
+Protected_titles
+WikiProject_Spam
+Spam-blacklist
+Requests_for_arbitration
+Requests_for_comment
+Requests_for_adminship
+Changing_username
+Categories_for_discussion
+Templates_for_deletion
+Redirects_for_discussion
+Deletion_review
+WikiProject_Deletion_sorting
+Files_for_deletion
+Files_for_discussion
+Possibly_unfree_files
+Templates_for_deletion
+Categories_for_discussion
+Deletion_review
+WikiProject_Deletion_sorting
+Files_for_deletion
+Files_for_discussion
+Possibly_unfree_files
+Suspected_copyright_violations
+Contributor_copyright_investigations
+Protected_titles
+Articles_for_creation
+Article_wizard
+Requests_for_checkuser
+WikiProject_Spam
+Administrators%27_noticeboard
+Community_sanction_noticeboard
+Bureaucrats%27_noticeboard
+Sockpuppet_investigations
+Neutral_point_of_view/Noticeboard
+No_original_research/noticeboard
+Fringe_theories/Noticeboard
+Conflict_of_interest/Noticeboard
+Long-term_abuse
+Wikiquette_assistance
+Abuse_reports
+Reliable_sources/Noticeboard
+Suspected_sock_puppets
+Biographies_of_living_persons/Noticeboard
+Content_noticeboard
+Editnotices
+Arbitration
+Arbitration_Committee
+Arbitration_Committee_Elections
+Mediation_Committee
+Mediation_Cabal/Cases
+Requests_for_bureaucratship
+Administrator_review
+Editor_review
+Article_Incubator
+Noindexed_pages
+Module:Sandbox
+TemplateStyles_sandbox
+Administrator_recall
+Administrator_elections
+
+## WikiNews:
+Prepared_stories
+
+## WikiQoute:
+Votes_for_deletion
+Votes_for_deletion_archive
+
+## WikiBooks:
+Votes_for_deletion
+Fundraising_2007/comments
+
+# Are there specific rules for certain user agents?
+Yes
+
+# Why websites use robots.txt
+Websites use robots.txt to communicate with web crawlers and bots about which parts of the site should not be accessed or indexed. This file serves as a guideline for ethical scraping by allowing site owners to protect sensitive information and manage server load, ensuring that only authorized bots can access specific content. By adhering to the directives in robots.txt, scrapers can respect the website's preferences, promoting responsible data collection practices.
