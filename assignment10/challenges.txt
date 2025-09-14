@@ -1,0 +1,9 @@
+The main challenge was to scrape the Durham County Library paginated results. I did not want to use sleep() and I did not want to use unstable anchors (text or flaky locators) to detect the page load completion. "document.readyState" also did not work.
+
+The results loading is done in several stages:
+1. Click
+2. Load bar run
+3. Display new results
+4. Remove old results if the number of the results in the current page is less then that of the previous page (like in case with the last page). In this case clean up removes old results one by one. This was not obvious and it took me 2 days to figure it out
+
+Once I figured out the #3 it took me 10 minutes to finish the scraping
